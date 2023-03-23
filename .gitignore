@@ -1,9 +1,9 @@
 node_modules/
 #Ignore anything starting with a z
-[Zz].*
+z*
 
 #ignore .env files
-*.env
+.env
 
 #ignore top level directory
-artifacts/
+/artifacts/
